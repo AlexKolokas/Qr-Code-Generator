@@ -1,2 +1,3 @@
 # Qr-Code-Generator
 
+Its a qr code generator that helps you to create qr codes fast and easy and save them as a png
